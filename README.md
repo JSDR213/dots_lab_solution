@@ -1,1 +1,1 @@
-# u1_dots_lab_solution
+Solution Code for our U1W1D5 Dots Game
